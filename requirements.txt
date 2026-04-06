@@ -1,0 +1,6 @@
+customtkinter
+Pillow
+pillow-heif
+
+# development only
+pytest
