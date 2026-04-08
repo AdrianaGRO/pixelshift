@@ -78,7 +78,7 @@ Output saved to chosen folder
 | **The iPhone User** | You took 100 photos on your iPhone but can't upload, print, or share them because they are in HEIC format | Drop them all in, hit JPEG, and they are instantly ready to share with anyone, anywhere |
 | **The Privacy-Conscious Parent** | You want to post a photo of your kids online but don't want the hidden GPS coordinates to reveal where your house or their school is | Turn on Privacy Mode. It wipes the location data clean while keeping the photo beautiful |
 | **The Professional Office Worker** | Your company asked you to convert employee ID photos or sensitive documents. Using an online converter means uploading private files to a random server in another country | Works fully offline. No data ever leaves your computer, so you stay GDPR compliant without thinking about it |
-| **The Website or Canva User** | You have 50 high-quality photos that are 10MB each, too big to upload to Canva or your blog and slow to load | Use the Resize tool. Shrink all 50 photos at once so they upload in seconds |
+| **The Website User** | You have 50 high-quality photos that are 10MB each, too big to upload to Canva or your blog and slow to load | Use the Resize tool. Shrink all 50 photos at once so they upload in seconds |
 
 ---
 
